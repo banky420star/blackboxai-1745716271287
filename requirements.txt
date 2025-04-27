@@ -1,0 +1,22 @@
+# Core ML Libraries
+tensorflow>=2.4.0
+keras>=2.4.0
+torch>=1.8.0
+stable-baselines3>=1.5.0
+transformers>=4.5.0  # For FinBERT
+
+# Data Processing
+pandas>=1.2.0
+numpy>=1.19.0
+scikit-learn>=0.24.0
+ta>=0.7.0  # Technical Analysis
+yfinance>=0.1.63
+
+# Trading Environment
+gym>=0.18.0
+ccxt>=1.50.0  # For exchange connectivity
+
+# Utilities
+python-dotenv>=0.19.0
+requests>=2.25.0
+loguru>=0.5.3
